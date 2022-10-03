@@ -2,7 +2,7 @@ from riotwatcher import TftWatcher, ApiError
 import pandas as pd
 
 # golbal variables
-api_key = 'RGAPI-43aa9d92-75d0-4f02-b560-8575b6d577d9'
+api_key = 'RGAPI-b4777836-365e-4f5a-9b3d-dab7a8240017'
 watcher = TftWatcher(api_key)
 my_region = 'EUN1'
 
